@@ -1,4 +1,4 @@
-#EJERCICIO DE FACTORIAL DE 5
+#EJERCICIO DE FACTORIAL DE "n"
 
 
 def factorial(n):
