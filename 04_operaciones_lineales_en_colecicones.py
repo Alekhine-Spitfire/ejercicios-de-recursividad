@@ -1,3 +1,9 @@
+#DEL "CURSO DE ESTRUCTURAS DE DATOS LINEALES CON PYTHON" DE PLATZI
+
+#EJERCICIO DE SUMA EN FORMA DE PIRÁMIDE
+
+
+
 def pyramid_sum(lower, upper, margin=0):
     
     blanks = " " * margin
